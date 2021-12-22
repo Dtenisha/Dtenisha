@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dtenisha
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning 
-- 📫 reach me @ tenishatenisha18@gmail.com
+- 📫 reach me @ tenishatenisha18@gmail.com | tenisha-d.medium.com
 
 <!---
 Dtenisha/Dtenisha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
